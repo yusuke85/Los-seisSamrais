@@ -1,0 +1,210 @@
+.fix-01{
+  background:#fff;
+  box-shadow:0 2px 8px rgba(30,30,80,.3);
+  left:0;
+  line-height:1;
+  position:fixed;
+  top:0;
+  width:100%;
+  z-index:100;
+  text-align:center;
+  padding: 1rem;
+}
+
+
+
+
+
+.foto{
+  margin-top: 190px;
+  margin-left: 150px;
+  margin-right: 150px;
+  text-align: center;
+}
+
+.logo{
+  text-align: left;
+  font-family:monospace;
+  font-size: 20px;
+}
+
+.inumap {
+  text-align: center;
+}
+
+map img {
+  display: none;
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+}
+
+area:hover+img {
+  display: block;
+  border-radius: 50px;
+}
+
+header ul{
+  text-align: right;
+}
+
+li{
+  display: inline;
+  list-style: none;
+  margin-right: 50px;
+}
+
+a{
+  color: rgb(151, 147, 147);
+  text-decoration: none;
+  transition: color 1s;
+}
+
+a:hover{
+  color:rgb(243, 215, 215)
+}
+
+.container h1{
+  margin-top: 100px;
+  text-align: center;
+  font-size: 60px;
+}
+
+.container p{
+  text-align: justify;
+   margin-right: 300px;
+  margin-left: 300px; 
+   
+}
+
+
+.container img{
+  text-align: left;
+}
+
+.shibaken{
+  text-align:center;
+  margin-top: 100px;
+}
+
+.caracterinu h1{
+  margin-top: 100px;
+  text-align: center;
+  font-family: monospace;
+  font-size: 60px;
+}
+
+
+ table{
+  border-collapse: collapse;
+  margin: 60px auto;
+}
+
+
+
+tr{
+  border: solid 4px;
+  }
+
+.nihon{
+  text-align: center;
+}
+
+.aligncenter{
+  display: block;
+  margin-bottom: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  }
+
+
+ td {
+  border: solid 4px;
+  text-align: left;
+  font-family: monospace;
+  font-size: 20px;
+  padding-top: 10px;
+  padding-top: 10px;
+  
+}
+
+
+th {
+  text-align: center;
+  font-family: monospace;
+  font-size: 30px;
+  width: 300px;
+  height: 80px;
+  background-color:rgb(243, 243, 243);
+  
+}
+
+.movie{
+  margin-top: 40px;
+  margin-bottom: 100px
+}
+
+.galería h1{
+  font-size: 60px;
+  text-align: center;
+  font-family: monospace;
+  margin-bottom: 80px;
+}
+
+.enlacesfonto{
+  font-size: 60px;
+  margin-top: 100px;
+}
+ .enlacestitle h1{
+  text-align: center;
+  font-family: monospace;
+  font-size: 60px;
+ }
+
+ .movie{
+   text-align: center;
+ }
+
+.inlinetest{
+  text-align:center;
+}
+
+ .inline-block-test {
+  display: inline-block;      
+  background-color:  #ccc;    
+  padding:  20px;             
+  height: 150px;  
+  text-align:center;  
+  font-size: 20px;  
+  border: solid;   
+  border-radius: 50px;  
+  margin-top: 100px;   
+}
+
+.image{
+  text-align: center;
+}
+
+span {
+  font-size: 30px;
+ 
+}
+
+h1{
+  margin-top: 100px;
+}
+
+.yajirushi{
+  font-size: 20px
+}
+
+
+ footer{
+   margin-top: 100px;
+   margin-bottom: 50px;
+   text-align: center;
+   color: rgb(151, 147, 147); 
+ }
